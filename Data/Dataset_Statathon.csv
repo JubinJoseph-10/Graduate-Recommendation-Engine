@@ -1,0 +1,328 @@
+,Gender,Age,Stream,College_Name,Placement_Status,Salary,GPA,Years_of_Experience,College_Rank,Rank_Group
+0,0,25,Computer Science,Harvard University,1,60000,3.7,2.0,4.0,Top 100
+1,1,24,Electrical Engineering,Massachusetts Institute of Technology,1,65000,3.6,1.0,1.0,Top 100
+2,0,26,Mechanical Engineering,Stanford University,1,58000,3.8,3.0,5.0,Top 100
+3,1,23,Information Technology,Yale University,0,0,3.5,2.0,16.0,Top 100
+4,0,24,Computer Science,Princeton University,1,62000,3.9,2.0,17.0,Top 100
+5,1,25,Electronics and Communication,Columbia University,1,63000,3.7,1.0,23.0,Top 100
+6,0,26,Information Technology,California Institute of Technology,1,59000,3.8,3.0,15.0,Top 100
+7,1,24,Computer Science,University of Chicago,0,0,3.6,2.0,11.0,Top 100
+8,0,25,Electrical Engineering,University of Pennsylvania,1,64000,3.7,2.0,12.0,Top 100
+9,1,23,Mechanical Engineering,Northwestern University,1,57000,3.5,1.0,47.0,Top 100
+10,0,24,Computer Science,Duke University,1,61000,3.9,2.0,57.0,Top 100
+11,1,25,Electronics and Communication,Johns Hopkins University,0,0,3.8,3.0,28.0,Top 100
+12,0,26,Information Technology,University of California--Berkeley,1,63000,3.7,2.0,10.0,Top 100
+13,1,24,Computer Science,University of Michigan--Ann Arbor,1,64000,3.6,1.0,33.0,Top 100
+14,0,23,Electrical Engineering,University of California--Los Angeles,1,66000,3.8,3.0,29.0,Top 100
+15,1,25,Mechanical Engineering,University of Virginia,0,0,3.7,2.0,260.0,200 - 300
+16,0,26,Computer Science,University of Wisconsin--Madison,1,61000,3.9,2.0,102.0,100 - 200
+17,1,24,Electronics and Communication,University of Illinois--Urbana-Champaign,1,62000,3.8,1.0,64.0,Top 100
+18,0,23,Information Technology,University of North Carolina--Chapel Hill,1,59000,3.7,2.0,132.0,100 - 200
+19,1,25,Computer Science,University of Washington,1,65000,3.6,1.0,63.0,Top 100
+20,0,24,Electrical Engineering,University of California--San Diego,1,67000,3.5,3.0,62.0,Top 100
+21,1,26,Mechanical Engineering,University of Texas--Austin,0,0,3.8,3.0,58.0,Top 100
+22,0,23,Computer Science,University of California--Santa Barbara,1,60000,3.7,2.0,163.0,100 - 200
+23,1,25,Electronics and Communication,University of Southern California,1,63000,3.6,1.0,116.0,100 - 200
+24,0,26,Information Technology,University of Florida,1,60000,3.9,2.0,168.0,100 - 200
+25,1,24,Computer Science,University of Minnesota--Twin Cities,0,0,3.8,3.0,195.0,100 - 200
+26,0,23,Electrical Engineering,University of Maryland--College Park,1,64000,3.7,2.0,169.0,100 - 200
+27,1,25,Mechanical Engineering,University of California--Davis,1,66000,3.5,1.0,118.0,100 - 200
+28,0,24,Computer Science,University of Pittsburgh,1,59000,3.7,2.0,222.0,200 - 300
+29,1,26,Electronics and Communication,University of Colorado--Boulder,1,62000,3.6,1.0,264.0,200 - 300
+30,0,23,Information Technology,University of Rochester,1,61000,3.9,2.0,224.0,200 - 300
+32,0,26,Electrical Engineering,Rice University,1,65000,3.5,3.0,145.0,100 - 200
+33,1,24,Electronics and Communication,University of California--Irvine,1,64000,3.6,1.0,268.0,200 - 300
+34,0,23,Information Technology,Georgetown University,1,67000,3.7,2.0,297.0,200 - 300
+36,0,24,Information Technology,University of Notre Dame,1,63000,3.7,2.0,304.0,300 - 400
+37,1,26,Computer Science,University of Iowa,1,62000,3.8,3.0,491.0,400 - 500
+38,0,23,Electrical Engineering,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+39,1,25,Mechanical Engineering,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+40,0,24,Computer Science,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+41,1,26,Electronics and Communication,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+42,0,23,Information Technology,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+44,0,26,Electrical Engineering,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+45,1,24,Mechanical Engineering,University of California--Santa Cruz,0,0,3.4,1.0,332.0,300 - 400
+46,0,23,Computer Science,University of California--San Diego,1,65000,3.7,2.0,62.0,Top 100
+47,1,25,Electronics and Communication,University of Texas--Austin,1,66000,3.8,3.0,58.0,Top 100
+48,0,26,Information Technology,University of California--Los Angeles,1,67000,3.9,3.0,29.0,Top 100
+49,1,24,Computer Science,University of Michigan--Ann Arbor,1,68000,3.9,3.0,33.0,Top 100
+50,0,23,Electrical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+51,1,25,Mechanical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+52,0,26,Computer Science,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+53,1,24,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+54,0,23,Information Technology,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+55,1,25,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+56,0,24,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+57,1,26,Computer Science,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+188,1,23,Information Technology,University of Maryland--College Park,1,61000,3.7,2.0,169.0,100 - 200
+189,0,24,Computer Science,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+190,1,25,Electrical Engineering,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+191,0,26,Mechanical Engineering,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+192,1,24,Electronics and Communication,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+193,0,23,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+194,1,25,Information Technology,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+195,0,26,Electrical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+196,1,24,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+197,0,23,Electronics and Communication,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+198,1,25,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+199,0,24,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+200,1,23,Computer Science,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+201,0,24,Electrical Engineering,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+202,1,25,Mechanical Engineering,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+203,0,26,Electronics and Communication,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+204,1,24,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+205,0,23,Information Technology,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+206,1,25,Electrical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+207,0,26,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+208,1,24,Electronics and Communication,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+209,0,23,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+210,1,25,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+211,0,24,Electrical Engineering,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+212,1,23,Mechanical Engineering,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+213,0,24,Electronics and Communication,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+214,1,25,Computer Science,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+215,0,26,Information Technology,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+216,1,24,Electrical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+217,0,23,Mechanical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+218,1,25,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+219,0,26,Computer Science,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+220,1,24,Information Technology,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+221,0,23,Electrical Engineering,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+222,1,25,Mechanical Engineering,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+223,0,24,Electronics and Communication,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+224,1,23,Computer Science,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+225,0,24,Information Technology,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+226,1,25,Electrical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+227,0,26,Mechanical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+228,1,24,Electronics and Communication,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+229,0,23,Computer Science,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+230,1,25,Information Technology,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+231,0,26,Electrical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+232,1,24,Mechanical Engineering,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+233,0,23,Electronics and Communication,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+234,1,25,Computer Science,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+235,0,24,Information Technology,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+236,1,23,Electrical Engineering,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+237,0,24,Mechanical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+238,1,25,Electronics and Communication,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+239,0,26,Computer Science,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+240,1,24,Information Technology,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+241,0,23,Electrical Engineering,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+242,1,25,Mechanical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+243,0,26,Electronics and Communication,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+244,1,24,Computer Science,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+245,0,23,Information Technology,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+246,1,25,Electrical Engineering,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+247,0,24,Mechanical Engineering,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+248,1,23,Electronics and Communication,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+249,0,24,Computer Science,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+250,1,25,Information Technology,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+251,0,26,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+252,1,24,Mechanical Engineering,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+253,0,23,Electronics and Communication,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+254,1,25,Computer Science,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+255,0,26,Information Technology,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+256,1,24,Electrical Engineering,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+257,0,23,Mechanical Engineering,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+258,1,25,Electronics and Communication,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+259,0,24,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+260,1,23,Information Technology,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+261,0,24,Electrical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+262,1,25,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+263,0,26,Electronics and Communication,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+264,1,24,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+265,0,23,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+266,1,25,Electrical Engineering,University of Michigan--Ann Arbor,1,64000,3.8,3.0,33.0,Top 100
+267,0,26,Mechanical Engineering,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+268,1,24,Electronics and Communication,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+269,0,23,Computer Science,University of Texas--Austin,1,68000,3.9,3.0,58.0,Top 100
+270,1,25,Information Technology,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+271,0,24,Electrical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+272,1,23,Mechanical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+273,0,24,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+274,1,25,Computer Science,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+275,0,24,Computer Science,University of California--San Diego,1,64000,3.6,2.0,62.0,Top 100
+276,1,25,Electrical Engineering,University of Texas--Austin,1,65000,3.7,2.0,58.0,Top 100
+277,0,23,Information Technology,University of California--Los Angeles,1,67000,3.8,3.0,29.0,Top 100
+278,1,26,Mechanical Engineering,University of Michigan--Ann Arbor,1,68000,3.9,3.0,33.0,Top 100
+279,0,24,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+280,1,25,Electronics and Communication,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+281,0,23,Information Technology,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+282,1,26,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+283,0,24,Computer Science,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+284,1,25,Electrical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+285,0,23,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+286,1,26,Mechanical Engineering,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+287,0,24,Computer Science,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+288,1,23,Electronics and Communication,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+289,0,26,Information Technology,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+290,1,24,Mechanical Engineering,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+291,0,23,Computer Science,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+293,1,24,Information Technology,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+294,0,25,Computer Science,University of California--Los Angeles,1,67000,3.9,3.0,29.0,Top 100
+295,1,23,Electronics and Communication,University of Michigan--Ann Arbor,1,68000,3.9,3.0,33.0,Top 100
+296,0,26,Information Technology,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+297,1,24,Mechanical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+298,0,23,Computer Science,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+299,1,26,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+300,0,24,Computer Science,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+301,1,23,Electrical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+302,0,26,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+303,1,24,Mechanical Engineering,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+304,0,23,Computer Science,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+305,1,26,Electrical Engineering,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+306,1,24,Information Technology,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+307,0,25,Computer Science,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+308,1,23,Electronics and Communication,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+310,1,24,Mechanical Engineering,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+311,0,23,Computer Science,University of California--Los Angeles,1,67000,3.9,3.0,29.0,Top 100
+312,1,26,Electronics and Communication,University of Michigan--Ann Arbor,1,68000,3.9,3.0,33.0,Top 100
+313,0,24,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+314,1,23,Electrical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+315,0,26,Information Technology,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+316,1,24,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+317,0,23,Computer Science,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+318,1,26,Electrical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+319,1,24,Information Technology,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+320,0,25,Computer Science,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+321,1,23,Electronics and Communication,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+322,0,26,Information Technology,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+323,1,24,Mechanical Engineering,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+324,0,23,Computer Science,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+325,1,26,Electronics and Communication,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+327,1,23,Electrical Engineering,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+328,0,26,Information Technology,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+329,1,24,Mechanical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+330,0,23,Computer Science,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+331,1,26,Electrical Engineering,University of California--Los Angeles,1,66000,3.9,3.0,29.0,Top 100
+332,1,24,Information Technology,University of California--Berkeley,1,65000,3.9,3.0,10.0,Top 100
+333,0,25,Computer Science,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+334,1,23,Electronics and Communication,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+335,0,26,Information Technology,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+336,1,24,Mechanical Engineering,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+337,0,23,Computer Science,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+338,1,26,Electronics and Communication,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+339,0,24,Computer Science,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+340,1,23,Electrical Engineering,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+341,0,26,Information Technology,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+342,1,24,Mechanical Engineering,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+344,1,26,Electrical Engineering,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+345,1,24,Information Technology,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+346,0,25,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+347,1,23,Electronics and Communication,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+348,0,26,Information Technology,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+349,1,24,Mechanical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+350,0,23,Computer Science,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+351,1,26,Electronics and Communication,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+352,0,24,Computer Science,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+353,1,23,Electrical Engineering,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+354,0,26,Information Technology,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+355,1,24,Mechanical Engineering,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+356,0,23,Computer Science,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+357,1,26,Electrical Engineering,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+358,1,24,Information Technology,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+360,1,23,Electronics and Communication,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+361,0,26,Information Technology,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+362,1,24,Mechanical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+363,0,23,Computer Science,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+364,1,26,Electronics and Communication,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+365,0,24,Computer Science,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+366,1,23,Electrical Engineering,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+367,0,26,Information Technology,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+368,1,24,Mechanical Engineering,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+369,0,23,Computer Science,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+370,1,26,Electrical Engineering,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+371,1,24,Information Technology,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+372,0,25,Computer Science,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+373,1,23,Electronics and Communication,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+374,0,26,Information Technology,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+376,0,23,Computer Science,University of Michigan--Ann Arbor,1,64000,3.9,2.0,33.0,Top 100
+377,1,26,Electronics and Communication,University of Virginia,1,67000,3.9,3.0,260.0,200 - 300
+378,0,24,Computer Science,University of California--Los Angeles,1,67000,3.8,3.0,29.0,Top 100
+379,1,23,Electrical Engineering,University of California--Berkeley,1,66000,3.7,2.0,10.0,Top 100
+380,0,26,Information Technology,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+381,1,24,Mechanical Engineering,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+382,0,23,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+383,1,26,Electrical Engineering,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+384,1,24,Information Technology,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+385,0,25,Computer Science,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+386,1,23,Electronics and Communication,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+387,0,26,Information Technology,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+388,1,24,Mechanical Engineering,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+389,0,23,Computer Science,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+391,0,24,Computer Science,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+392,1,23,Electrical Engineering,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+393,0,26,Information Technology,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+394,1,24,Mechanical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+395,0,23,Computer Science,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+396,1,26,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+397,1,24,Information Technology,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+398,0,25,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+399,1,23,Electronics and Communication,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+400,0,26,Information Technology,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+401,1,24,Mechanical Engineering,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+402,0,23,Computer Science,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+403,1,26,Electrical Engineering,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+404,0,24,Computer Science,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+405,1,23,Electronics and Communication,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+407,1,24,Mechanical Engineering,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+408,0,23,Computer Science,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+409,1,26,Electrical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+410,1,24,Information Technology,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+411,0,25,Computer Science,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+412,1,23,Electronics and Communication,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+413,0,26,Information Technology,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+414,1,24,Mechanical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+415,0,23,Computer Science,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+416,1,26,Electronics and Communication,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+418,1,23,Electrical Engineering,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+424,0,25,Computer Science,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+425,1,23,Electronics and Communication,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+426,0,26,Information Technology,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+427,1,24,Mechanical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+428,0,23,Computer Science,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+429,1,26,Electronics and Communication,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+430,0,24,Computer Science,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+431,1,23,Electrical Engineering,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+432,0,26,Information Technology,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+433,1,24,Mechanical Engineering,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+434,0,23,Computer Science,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+435,1,26,Electrical Engineering,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+436,1,24,Information Technology,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+437,0,25,Computer Science,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+439,0,26,Information Technology,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+440,1,24,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+441,0,23,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+442,1,26,Electronics and Communication,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+443,0,24,Computer Science,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+444,1,23,Electrical Engineering,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+445,0,26,Information Technology,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+446,1,24,Mechanical Engineering,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+447,0,23,Computer Science,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+448,1,26,Electrical Engineering,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+449,1,24,Information Technology,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+450,0,25,Computer Science,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+451,1,23,Electronics and Communication,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+452,0,26,Information Technology,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+453,1,24,Mechanical Engineering,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+455,1,26,Electronics and Communication,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+456,0,24,Computer Science,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+457,1,23,Electrical Engineering,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+458,0,26,Information Technology,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+459,1,24,Mechanical Engineering,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+460,0,23,Computer Science,University of Illinois--Urbana-Champaign,1,65000,3.8,3.0,64.0,Top 100
+461,1,26,Electrical Engineering,University of Colorado--Boulder,1,66000,3.7,2.0,264.0,200 - 300
+462,1,24,Information Technology,University of North Carolina--Chapel Hill,0,0,3.6,1.0,132.0,100 - 200
+463,0,25,Computer Science,University of Maryland--College Park,1,63000,3.7,2.0,169.0,100 - 200
+464,1,23,Electronics and Communication,University of Rochester,1,62000,3.8,3.0,224.0,200 - 300
+465,0,26,Information Technology,University of California--Santa Cruz,1,60000,3.7,2.0,332.0,300 - 400
+466,1,24,Mechanical Engineering,University of Connecticut,1,61000,3.5,1.0,444.0,400 - 500
+467,0,23,Computer Science,University of California--Riverside,0,0,3.9,2.0,404.0,400 - 500
+468,1,26,Electronics and Communication,University of Delaware,1,65000,3.7,1.0,498.0,400 - 500
+469,0,24,Computer Science,University of California--San Francisco,1,66000,3.8,3.0,132.0,100 - 200
+471,0,26,Information Technology,University of Virginia,1,64000,3.9,2.0,260.0,200 - 300
+472,1,24,Mechanical Engineering,University of Michigan--Ann Arbor,1,67000,3.9,3.0,33.0,Top 100
+473,0,23,Computer Science,University of Pennsylvania,0,0,3.7,2.0,12.0,Top 100
+474,1,26,Electrical Engineering,University of Washington,1,67000,3.8,3.0,63.0,Top 100
+475,1,24,Information Technology,University of California--Berkeley,1,66000,3.9,3.0,10.0,Top 100
+544,1,24,Mechanical Engineering,University of California--Santa Cruz,1,60000,3.7,3.0,332.0,300 - 400
